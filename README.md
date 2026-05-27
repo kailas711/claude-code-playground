@@ -1,2 +1,2 @@
 # claude-code-playground
-This repo houses set of codebases that I used to experiment with claude code. 
+This repo houses set of codebases that I used to experiment with claude code and it's features 
